@@ -1,0 +1,117 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #363333;
+}
+
+.container {
+        width: 60%;
+        margin: auto;
+        padding: 1rem 0.5rem;
+        text-align: center;
+        border: 1px solid #ccc;
+        border-radius: 1rem;
+        box-shadow: 0.5rem 0.5rem 0.5rem;
+        background-color: #fff;
+        height: 45rem;
+}  
+.content {
+        width: 40%;
+        margin: auto;
+        height: 43rem;
+}
+         
+.logo { width: 2rem;
+        display: block;
+        margin: auto;
+        padding-top: 0.8rem;
+}
+
+.sign { /*text-align: center;*/
+        padding-right: 9rem;
+        font-size: 1.8rem;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #0f1419;
+        margin-bottom: 1.8rem;
+}
+
+.apple {
+        font-weight: bold;
+        margin-bottom: 20px;
+} 
+
+.googlelogo {
+        margin-top: 30px;
+}
+
+form button { 
+         width: 100%;
+         border: none;
+         padding: 0.7rem 5rem;
+         margin-bottom: 1.5rem;
+         border-radius: 1.5rem;
+         font-size: 1rem;
+         border-width: thin;
+         outline: 1px solid #b8c2df;
+         background-color: white;
+}
+
+.sign-up button {
+         display: flex;
+         align-items: center;
+         width: 100%;
+         padding: 0.5rem 4rem ;
+}
+.googlelogo img, .apple img {
+        width: 24px;
+        padding-right: 5px;
+    }
+
+.line {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+}
+
+hr {
+        width: 100%;
+        background-color: #b8c2df;
+        border: none;
+        height: 0.5px;
+}
+
+.details { 
+        width: 90%; 
+        font-size: 1.1rem;
+        color: #7c7676;
+        padding: 1rem;
+        margin-top: 0.9rem; 
+        margin-bottom: 1.6rem;
+        outline: 1px solid #b8c2df;
+        border: none;
+        border-radius: 0.2rem;
+}
+
+.next { 
+        color: #fff;
+        font-size: 1rem;
+        padding: 0.7rem 8rem;
+        margin-bottom: 1.5rem;
+        border-radius: 1.5rem;
+        border-width: thin;
+        background-color: #000;
+        font-weight: bold;
+}
+
+form p {
+        padding-right: 2.5rem;
+        margin-top: 1.5rem;
+        color:#7c7676 ;
+}
+.password { font-weight: bold;
+}
+
+p a {
+        text-decoration: none;
+        color:#1d9bf0 ;
+}
+
