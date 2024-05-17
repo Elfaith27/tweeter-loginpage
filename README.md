@@ -1,4 +1,4 @@
 Twiiter Loginpage
 
 
-![Twitter Loginpage screenshot](screenshot.png)
+![Twitter Loginpage screenshot](images/screenshot.png)
